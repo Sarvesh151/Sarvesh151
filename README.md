@@ -13,23 +13,48 @@
 </p>
 
 ---
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:mauryasarvesh022@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sarvesh-kumar-maurya-458780371/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sarvesh151">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://sarvesh151.github.io/Sarvesh-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/sarvesh_maurya_022/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
 
 ## 🧑‍💻 About Me
 
 🎓 BCA student specializing in **Data Science & Artificial Intelligence**
 
-📊 Aspiring **Data Analyst** with hands-on experience in data cleaning,
+ Aspiring **Data Analyst** with hands-on experience in data cleaning,
 EDA, visualization and dashboard development.
 
-🐍 Working with **Python, Pandas, NumPy & Scikit-learn**
+ Working with **Python, Pandas, NumPy & Scikit-learn**
 
-📈 Building dashboards using **Power BI & Excel**
+ Building dashboards using **Power BI & Excel**
 
-🗄️ Practicing **SQL & MySQL**
+ Practicing **SQL & MySQL**
 
-🤖 Interested in **Machine Learning, AI and Predictive Analytics**
+ Interested in **Machine Learning, AI and Predictive Analytics**
 
-💡 Passionate about solving real-world problems using data.
+ Passionate about solving real-world problems using data.
 
 ---
 
@@ -46,22 +71,32 @@ EDA, visualization and dashboard development.
 
 ## 💼 Experience
 
+### 🤖 AI/ML Intern — Indian Institute of Computing Technology, Delhi
+
+**45 Days | 15 Days Training + 1 Month Internship**
+
+- Learned **AI, ML, Neural Networks & Python libraries**
+- Applied ML concepts to a real-world project
+- Built a **Fake News Detector** using Python & Machine Learning
+
+---
+
 ### 📊 Data Analyst Intern — Elevate Labs
 
-- 🐍 Cleaned and structured raw datasets using Python
-- 🔎 Performed Exploratory Data Analysis (EDA)
-- 📊 Built Power BI dashboards
-- 📑 Automated Excel reports
-- 💡 Converted business questions into analytical insights
+-  Cleaned and structured raw datasets using Python
+-  Performed Exploratory Data Analysis (EDA)
+-  Built Power BI dashboards
+-  Automated Excel reports
+-  Converted business questions into analytical insights
 
 ---
 
 ### 🤖 Artificial Intelligence Intern — Codesoft
 
-- 💬 Developed an AI chatbot using Python & NLP
-- 🎬 Built a Movie Recommendation System
-- 🎮 Developed an AI Tic-Tac-Toe game
-- 🧠 Worked with model training and predictive analytics
+-  Developed an AI chatbot using Python & NLP
+-  Built a Movie Recommendation System
+-  Developed an AI Tic-Tac-Toe game
+-  Worked with model training and predictive analytics
 
 ---
 
@@ -81,11 +116,11 @@ is <b>Real or Fake</b>.
 
 <b>Tech Stack:</b>
 
-🐍 Python  
-📊 Pandas  
-🤖 Scikit-learn  
-🧠 NLP  
-🌐 Streamlit
+ Python  
+ Pandas  
+ Scikit-learn  
+ NLP  
+ Streamlit
 
 <br>
 
@@ -106,10 +141,10 @@ and movie similarity techniques.
 
 <b>Tech Stack:</b>
 
-🐍 Python  
-📊 Pandas  
-🤖 Machine Learning  
-🎯 Recommendation System
+ Python  
+ Pandas  
+ Machine Learning  
+ Recommendation System
 
 <br>
 
@@ -209,11 +244,11 @@ and movie similarity techniques.
 # 🧠 Currently Learning
 
 ```text
-🐍 Advanced Python
-📊 Data Analytics
-🤖 Machine Learning
-🧠 Artificial Intelligence
-🗄️ SQL & Database Management
-📈 Power BI
-📊 Statistical Analysis
-🚀 Model Deployment
+ Advanced Python
+ Data Analytics
+ Machine Learning
+ Artificial Intelligence
+ SQL & Database Management
+ Power BI
+ Statistical Analysis
+ Model Deployment
